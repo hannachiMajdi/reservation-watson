@@ -1,0 +1,7 @@
+---
+applications:
+- name: assistant-agent-reservation-Majdi_hannachi
+  command: npm start
+  path: .
+  memory: 256M
+  instances: 1
